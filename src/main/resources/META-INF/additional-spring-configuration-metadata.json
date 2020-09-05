@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "name",
+      "type": "java.lang.String",
+      "sourceType": "com.wanger.springbootwebapp.properties.PlayerProperties"
+    },
+    {
+      "name": "sports",
+      "type": "java.lang.String",
+      "sourceType": "com.wanger.springbootwebapp.properties.PlayerProperties"
+    }
+  ]
+}
